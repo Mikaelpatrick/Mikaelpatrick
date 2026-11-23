@@ -1,19 +1,11 @@
 # Hi, I'm Michael Patrick Olmoguez 👋
 
-**BSIT Student • Java Developer • UI Enthusiast**
+**BSIT Student •**
 
 I'm a BSIT student at Cebu Technological University building practical skills through programming, GUI development, data structures, and interface design. I enjoy turning course projects into working applications and learning something new with every build.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=BSIT+Student+at+CTU;Java+and+GUI+Programming;Learning+Data+Structures;Always+Building+and+Improving)](https://git.io/typing-svg)
 
-## 🚀 Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| [JavaProject2025](https://github.com/Mikaelpatrick/JavaProject2025) | My latest Java project and ongoing 2025 development work. | Java |
-| [Programming 2 — GUI](https://github.com/Mikaelpatrick/Programing2-CTu-Graphic-User-Interface.) | Graphical user interface programming exercises. | Java |
-| [Multi-Dimensional Array](https://github.com/Mikaelpatrick/Multi-Demensional-Array) | Practice with single-dimensional and multi-dimensional arrays. | Java / Data Structures |
-| [Figma 1](https://github.com/Mikaelpatrick/Figma-1) | An interface design project from my first-year coursework. | Figma |
 
 ## 🛠️ Languages & Technologies
 
