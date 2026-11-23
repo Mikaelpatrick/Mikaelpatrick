@@ -44,7 +44,6 @@ I'm a BSIT student at Cebu Technological University building practical skills th
 
 - 📧 **Email:** [Olmoguezpatrick5@gmail.com](mailto:Olmoguezpatrick5@gmail.com)
 - 📍 **Location:** Philippines
-- 💬 **Open to:** Learning opportunities and collaboration
 
-<p align="center"><i>“The only way to do great work is to keep learning.”</i></p>
+
 
